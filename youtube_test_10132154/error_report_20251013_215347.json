@@ -1,0 +1,67 @@
+{
+  "errors": {},
+  "skipped_videos": [
+    {
+      "video_id": "6tXCKF33IzM",
+      "reason": "댓글 비활성화"
+    },
+    {
+      "video_id": "aTqchg0BUG4",
+      "reason": "댓글 비활성화"
+    },
+    {
+      "video_id": "TLftyCObb_E",
+      "reason": "댓글 비활성화"
+    },
+    {
+      "video_id": "koBgYLlnVFc",
+      "reason": "댓글 수 부족 (3개)"
+    },
+    {
+      "video_id": "-QdWntrZ4KY",
+      "reason": "댓글 비활성화"
+    },
+    {
+      "video_id": "4WFsxzp7SBc",
+      "reason": "댓글 비활성화"
+    },
+    {
+      "video_id": "-llNF_9QZ1A",
+      "reason": "댓글 비활성화"
+    },
+    {
+      "video_id": "1czQIBhhe1A",
+      "reason": "댓글 비활성화"
+    }
+  ],
+  "no_comment_videos": [
+    {
+      "video_id": "6tXCKF33IzM",
+      "title": "Blue Whale (흰수염고래)"
+    },
+    {
+      "video_id": "aTqchg0BUG4",
+      "title": "EYES CLOSED"
+    },
+    {
+      "video_id": "TLftyCObb_E",
+      "title": "Blue Valentine"
+    },
+    {
+      "video_id": "-QdWntrZ4KY",
+      "title": "The End Of Love (이별이라는 말로 우리의 연애가 끝난다는 게)"
+    },
+    {
+      "video_id": "4WFsxzp7SBc",
+      "title": "걸어줄래"
+    },
+    {
+      "video_id": "-llNF_9QZ1A",
+      "title": "Wind that blows"
+    },
+    {
+      "video_id": "1czQIBhhe1A",
+      "title": "내게 남은 사랑을 드릴께요"
+    }
+  ]
+}
