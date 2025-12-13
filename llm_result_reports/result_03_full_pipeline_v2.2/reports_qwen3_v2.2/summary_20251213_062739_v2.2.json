@@ -1,0 +1,23 @@
+{
+  "pipeline_version": "2.2",
+  "model": "Qwen/Qwen3-8B",
+  "videos_processed": 3,
+  "max_comments_per_video": 100,
+  "language_stats": {
+    "video": {
+      "English": 2,
+      "Japanese": 1
+    },
+    "comments": {
+      "English": 29,
+      "Korean": 9,
+      "Japanese": 22
+    }
+  },
+  "enhancements": [
+    "Two-part summary structure",
+    "Majority/minority opinion analysis",
+    "Sentiment breakdown integration",
+    "LLM category correction"
+  ]
+}
