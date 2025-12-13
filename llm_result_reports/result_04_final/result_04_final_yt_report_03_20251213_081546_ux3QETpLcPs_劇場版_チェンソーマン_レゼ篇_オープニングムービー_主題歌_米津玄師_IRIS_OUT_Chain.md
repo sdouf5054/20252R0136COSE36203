@@ -1,6 +1,6 @@
 # YouTube Video Report
 
-**Generated**: 2025-12-13 04:40:35
+**Generated**: 2025-12-13 08:15:34
 **Model**: meta-llama/Llama-3.1-8B-Instruct
 **Pipeline Version**: 2.3
 
@@ -10,8 +10,8 @@
 
 - **Title**: 劇場版『チェンソーマン レゼ篇』オープニングムービー 　主題歌：米津玄師「IRIS OUT」“Chainsaw Man – The Movie: Reze Arc” – Opening Movie
 - **Channel**: Kenshi Yonezu  米津玄師
-- **Category (ML Model)**: Not Used 
-- **Category (LLM Validated)**: Music
+- **Category (ML Model)**: Entertainment 
+- **Category (LLM Validated)**: Entertainment
 - **Published**: 2025-10-07T10:59:56Z
 - **Duration**: PT2M31S seconds
 - **Video ID**: `ux3QETpLcPs`
@@ -41,10 +41,10 @@
 ## Video Summary
 
 KEY POINT:
-The video is the opening movie for the Japanese animated film "Chainsaw Man – The Movie: Reze Arc," featuring the song "IRIS OUT" by Kenshi Yonezu, and it showcases the story of a young devil hunter Denji and his encounter with the girl Reze.
+The video showcases the opening movie for the Japanese anime film "Chainsaw Man – The Movie: Reze Arc," featuring the theme song "IRIS OUT" by Kenshi Yonezu.
 
 DETAILED SUMMARY:
-The video is an exciting preview for the theatrical anime film "Chainsaw Man – The Movie: Reze Arc," which is based on the popular manga series "Chainsaw Man" by Tatsuki Fujimoto. The story follows Denji, a young devil hunter who becomes a "Chainsaw Man" with the power to transform into a powerful devil. He meets Reze, a girl he befriends, and their lives become intertwined in a series of events that will change Denji's life forever. The video highlights the film's themes of love, desire, and the battle between humans and devils. The film is produced by MAPPA and features the music of Kenshi Yonezu, including the song "IRIS OUT" as the main theme and "JANE DOE" by Kenshi Yonezu and Hikaru Utada as the ending theme.
+The video introduces the upcoming anime film adaptation of the popular manga series "Chainsaw Man" by Tatsuki Fujimoto, which has surpassed 30 million copies in circulation. The story follows Denji, a young devil hunter, who forms a bond with a girl named Reze after a chance encounter, leading to a significant change in his life. The film is produced by MAPPA, the same studio behind "Jujutsu Kaisen" and "Attack on Titan: The Final Season." The opening and ending themes are performed by Kenshi Yonezu and Kenshi Yonezu with Hikaru Utada, respectively. The video highlights the main cast, staff, and crew involved in the project, as well as the release information for the film.
 
 ---
 
@@ -71,10 +71,10 @@ The video is an exciting preview for the theatrical anime film "Chainsaw Man –
 ### LLM Qualitative Analysis
 
 KEY POINT:
-The overall reaction to the YouTube video is overwhelmingly positive, with viewers praising the opening sequence for its emotional impact, storytelling, and animation.
+The overall reaction to the YouTube video is overwhelmingly positive, with viewers praising the opening scene's emotional impact, storytelling, and character development.
 
 DETAILED SUMMARY:
-The majority opinion is that the opening sequence is exceptional, with many viewers praising its ability to evoke emotions and set the tone for the rest of the movie. Viewers appreciate how the sequence effectively conveys the characters' relationships and personalities, with many highlighting the strong bond between the three main characters. Some notable minority views express admiration for the animation's attention to detail, particularly the use of visual effects and graphic design. There are also comments about the effectiveness of the opening sequence in making viewers want to watch the entire movie. Some viewers appreciate the way the animation seamlessly blends with the music, creating a captivating experience.
+The majority opinion is that the opening scene is impressive, emotionally resonant, and effectively sets the tone for the rest of the movie. Viewers appreciate how the scene skillfully balances humor and heart, with many mentioning specific moments that tug at their emotions, such as the scene where the brother and sister share a tender moment. Notable minority views include some viewers expressing surprise at how the opening scene alone is enough to justify watching the entire movie, with one comment even stating that it's worth paying for the movie just for this opening scene. Language patterns are primarily Japanese, with some English and Korean comments, but there is no significant code-switching. Some viewers appreciate the creative use of visual effects, such as the bird's-eye view shots, and the way the music is integrated into the scene.
 
 SENTIMENT BREAKDOWN:
 Positive: 95%  Negative: 2%  Neutral: 3%

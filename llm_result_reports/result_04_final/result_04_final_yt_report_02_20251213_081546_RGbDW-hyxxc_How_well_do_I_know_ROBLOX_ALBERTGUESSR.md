@@ -1,6 +1,6 @@
 # YouTube Video Report
 
-**Generated**: 2025-12-13 04:40:01
+**Generated**: 2025-12-13 08:15:01
 **Model**: meta-llama/Llama-3.1-8B-Instruct
 **Pipeline Version**: 2.3
 
@@ -10,7 +10,7 @@
 
 - **Title**: How well do I know ROBLOX | ALBERTGUESSR
 - **Channel**: Flamingo
-- **Category (ML Model)**: Not Used 
+- **Category (ML Model)**: Entertainment 
 - **Category (LLM Validated)**: Gaming
 - **Published**: 2025-10-13T03:13:19Z
 - **Duration**: PT27M10S seconds
@@ -41,10 +41,10 @@
 ## Video Summary
 
 KEY POINT:
-The video "How well do I know ROBLOX" by ALBERTGUESSR is a fun gaming challenge where the host is teleported into various Roblox games to guess their identities, testing their knowledge of the platform.
+In this entertaining video, AlbertGUESSR plays a game of Roblox GeoGuessr, where he is randomly teleported into different Roblox games and attempts to guess their names and genres.
 
 DETAILED SUMMARY:
-In this 27-minute video, ALBERTGUESSR embarks on a thrilling adventure, exploring a selection of Roblox games, categorized into easy, medium, hard, and impossible modes. The host is teleported into these games, one by one, and attempts to guess the game's identity based on their visual and auditory cues. The games are listed in the video description, but some links are taken down due to Roblox's updates. Throughout the video, ALBERTGUESSR showcases their knowledge of various Roblox games, providing an entertaining and engaging experience for viewers. Viewers will enjoy watching the host's reactions and insights as they navigate through these games, offering a fun and lighthearted take on the popular Roblox platform.
+The video features AlbertGUESSR participating in a fun challenge where he is dropped into various Roblox games, ranging from easy to impossible mode, with the goal of identifying the games and their corresponding genres. The games are categorized into easy, medium, hard, and impossible modes, offering varying levels of difficulty for the challenge. Throughout the video, AlbertGUESSR provides his reactions and insights as he explores each game, showcasing his knowledge of the Roblox platform. The video also includes links to the games in the description, allowing viewers to access the games and try the challenge themselves.
 
 ---
 
@@ -71,13 +71,13 @@ In this 27-minute video, ALBERTGUESSR embarks on a thrilling adventure, explorin
 ### LLM Qualitative Analysis
 
 KEY POINT:
-The audience's reaction to the YouTube video is overwhelmingly positive, with viewers expressing joy and excitement upon seeing a beloved creator, Kaden, return.
+The audience is generally excited to see Kaden's return, but some viewers are nostalgic for the old content and express mixed feelings about the video's length and the game's discontinuation.
 
 DETAILED SUMMARY:
-The majority opinion is that the viewers are thrilled to see Kaden back, as evident from comments like "Yes we love to see Kaden back" and "OMG I HAVENT SEEN KADEN IN FOREVER!!". Many viewers appreciate Kaden's return, especially when collaborating with other creators, as seen in "love when kaden helps out small creators like flamingo <3". Some viewers also express nostalgia for the past collaborations and the game, as in "I miss all the old collabs Albert would do. It’s nice to see kaden". Notable minority views include those who express sadness about the game's abandonment (e.g., "it’s sad to see that it basically got abandoned after the game was shut down") and those who are frustrated with the video's length ("ANOTHER 30 MIN VID?? WE ARE BEING BLESSED 'THANK YOU ALBERT' WE ALL SAY IN UNISON"). There is a noticeable code-switching between English and other languages (not specified), but it does not appear to be a dominant pattern in this analysis.
+The majority of viewers seem to be thrilled to see Kaden back, with many expressing their excitement and happiness. Comments like "Kaden IS BACK??!!! OMG OMGG" and "YAYYYYYYY KADEN IS OUT OF PRISON" indicate a strong positive reaction. However, a notable minority of viewers express nostalgia for the old content, saying "I miss all the old collabs Albert would do" and "WE NEED DANI, JANDEL, KADEN, DENIS, TEMPRIST, MILES BACK LIKE THE OLDS DAYYSS". Some viewers also mention the game's discontinuation, with comments like "It's unfortunate to see that it basically got abandoned after the game was shut down" and "it's sad to see that it basically it got abandoned after the game was shut down." The language used is predominantly English, with some comments containing enthusiastic and emotive expressions.
 
 SENTIMENT BREAKDOWN:
-Positive: 85%  Negative: 10%  Neutral: 5%
+Positive: 80%  Negative: 15%  Neutral: 5%
 
 ---
 
