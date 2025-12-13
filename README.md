@@ -9,7 +9,7 @@
 유튜브 리포트 생성 통합 pipeline.
 category, sentimental 모델 로드, 학습해 사용 가능.
 
-모델 파일 링크: category, [sentimental](https://drive.google.com/file/d/1CSZHLOvhcNfRlcJfelGmcb6PuAeSkJTR/view?usp=drive_link )
+모델 파일 링크: [category](https://drive.google.com/file/d/139UACMdcqj5V-iGBB8LZjjd4tCFaTvmx/view?usp=sharing), [sentimental](https://drive.google.com/file/d/1CSZHLOvhcNfRlcJfelGmcb6PuAeSkJTR/view?usp=drive_link )
 
 실행시 의도된 디렉토리 구조
 
